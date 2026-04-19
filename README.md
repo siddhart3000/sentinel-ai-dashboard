@@ -5,6 +5,12 @@
 
 <!-- LIVE BADGES ROW -->
 <p align="center">
+  <a href="https://sentinel-ai-dashboard-seyyzpvnzksse95nkukcjd.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-LAUNCH%20APP-00d4ff?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=060a10" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/STATUS-DEPLOY%20READY-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=060a10" />
   <img src="https://img.shields.io/badge/VERSION-3.1.0-00d4ff?style=for-the-badge&logo=semver&logoColor=white&labelColor=060a10" />
   <img src="https://img.shields.io/badge/PYTHON-3.10%2B-a855f7?style=for-the-badge&logo=python&logoColor=white&labelColor=060a10" />
@@ -26,7 +32,35 @@
 
 <br/><br/>
 
+<!-- LIVE DEMO BUTTON — BIG CENTERED -->
+<a href="https://sentinel-ai-dashboard-seyyzpvnzksse95nkukcjd.streamlit.app/" target="_blank">
+  <img src="https://img.shields.io/badge/%E2%96%B6%20%20OPEN%20LIVE%20DASHBOARD%20%20%E2%86%92-sentinel--ai--dashboard.streamlit.app-00d4ff?style=for-the-badge&logoColor=white&labelColor=0b1220&color=00d4ff" />
+</a>
+
+<br/><br/>
+
 </div>
+
+---
+
+## 🌐 Live Deployment
+
+<div align="center">
+
+> **The app is fully deployed and running. Click below to launch instantly — no setup required.**
+
+| | |
+|:---:|:---|
+| 🔗 **URL** | [https://sentinel-ai-dashboard-seyyzpvnzksse95nkukcjd.streamlit.app/](https://sentinel-ai-dashboard-seyyzpvnzksse95nkukcjd.streamlit.app/) |
+| ☁️ **Platform** | Streamlit Community Cloud |
+| ⚡ **Status** | ![Online](https://img.shields.io/badge/ONLINE-LIVE-22c55e?style=flat-square&labelColor=060a10) |
+| 🛰️ **Modules** | LoRa Telemetry Reconstruction · Predictive Traffic Congestion |
+
+</div>
+
+```
+https://sentinel-ai-dashboard-seyyzpvnzksse95nkukcjd.streamlit.app/
+```
 
 ---
 
@@ -117,7 +151,9 @@ SENTINEL AI STACK
 
 ---
 
-## 🚀 Quick Start
+## 🚀 Run Locally
+
+> **Or just use the [live deployment](https://sentinel-ai-dashboard-seyyzpvnzksse95nkukcjd.streamlit.app/) — no setup needed.**
 
 ### Prerequisites
 
@@ -139,7 +175,7 @@ pip install streamlit plotly numpy pandas
 streamlit run app.py
 ```
 
-### That's it. Open `http://localhost:8501` in your browser. 🎯
+Open `http://localhost:8501` in your browser. 🎯
 
 ---
 
@@ -251,7 +287,7 @@ SENTINEL AI uses a custom **cyber-intelligence dark theme** with:
 
 - **Font stack:** `Orbitron` (brand/headings) + `JetBrains Mono` (data/labels) + `Inter` (body)
 - **Primary accent:** `#00d4ff` — cyan for verified/live data
-- **Secondary accent:** `#a855f7` — purple for system/version elements  
+- **Secondary accent:** `#a855f7` — purple for system/version elements
 - **Alert color:** `#ef4444` — red for high congestion / errors
 - **Background:** `#060a10` (deep space) → `#0b1220` (card surfaces)
 - **Animations:** CSS shimmer on logo, pulse on live badge, gradient progress bars
@@ -287,6 +323,7 @@ SENTINEL AI uses a custom **cyber-intelligence dark theme** with:
 | **Submit To** | [sashrik@cyberjoar.com](mailto:sashrik@cyberjoar.com) |
 | **Deadline** | 20 April 2026 · 17:00 IST |
 | **Problems Solved** | Problem 2 (LoRa) + Problem 4 (Traffic) |
+| **Live App** | [sentinel-ai-dashboard.streamlit.app](https://sentinel-ai-dashboard-seyyzpvnzksse95nkukcjd.streamlit.app/) |
 
 </div>
 
@@ -300,6 +337,12 @@ SENTINEL AI uses a custom **cyber-intelligence dark theme** with:
 <br/>
 
 **SENTINEL AI &nbsp;·&nbsp; SIDDHARTH SINGH &nbsp;·&nbsp; CYBERJOAR AI &nbsp;·&nbsp; OC.41335.2026.59218**
+
+<br/>
+
+🌐 **[sentinel-ai-dashboard-seyyzpvnzksse95nkukcjd.streamlit.app](https://sentinel-ai-dashboard-seyyzpvnzksse95nkukcjd.streamlit.app/)**
+
+<br/>
 
 *Built with precision. Deployed with confidence.*
 
